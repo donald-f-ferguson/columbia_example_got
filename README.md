@@ -1,1 +1,1 @@
-# Columbia University Microservice Example Game-of-Thrones Application
+# Columbia University Microservice Example:<br> Game-of-Thrones Application
